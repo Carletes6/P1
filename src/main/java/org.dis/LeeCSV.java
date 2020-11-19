@@ -6,7 +6,7 @@ package org.dis;
 
 // Otros imports ...
 
-public class LeerCSV {
+public static class LeerCSV {
 
     public List<golfPlayer> parseaCSV(String path) {
         //....
